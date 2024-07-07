@@ -1,5 +1,7 @@
 
-This README.md file provides details about three programs that perform three different operations independently. These three programs are the Student Grade Generator, Net Salary Calculator, and Speed Detector program. Below is the overview of how each program works, its purpose, features, and usage.
+This README.md file provides details about three programs that perform three different operations independently. These three programs are the Student Grade Generator, Net Salary Calculator, and Speed Detector Program. To get the prompt for each program, select the correct javascript link for the program you want to use in the index.html file and dissable the other two javascript links. 
+
+Below is the overview of how each program works, its purpose, features, and usage.
 
 1. Student Grade Generator
 
@@ -98,8 +100,9 @@ The program will calculate and display the Net Salary.
 
 References
 
-[KRA Tax Rates](https://www.aren.co.ke/payroll/taxrates.htm)
-[KRA Calculating Tax](https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye)
+KRA Tax Rates: https://www.aren.co.ke/payroll/taxrates.htm
+
+KRA Calculating Tax: https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
 
 
