@@ -14,7 +14,6 @@ function validateMarks(marksToValidate) {
 
 function studentGradeGenerator(func) {
     let grade;
-    let notGrade;
     let A, B, C, D, E;
     const marks = func(inputMarks)
 
