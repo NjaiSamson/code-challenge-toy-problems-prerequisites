@@ -24,9 +24,9 @@ function speedGovernor(speedFunc) {
         let demeritPoints = Math.floor(speedDifference / forEverySpeedAbove70);
         if(demeritPoints <= 1) {
             return `Your total demerit point = ${demeritPoints} point.`;
-        } else if(demeritPoints < 12) {
+        } else if(demeritPoints <= 12) {
             return `Your total demerit points = ${demeritPoints} points.`;
-        } else if(demeritPoints >= 12){
+        } else if(demeritPoints > 12){
             return "License suspended."
         } else {
             return "You entered invalid speed. Please click 'OK' and enter valid speed to try again."
